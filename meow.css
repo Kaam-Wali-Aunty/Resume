@@ -1,0 +1,26 @@
+.name{
+    height: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    background-color: powderblue;
+}
+.contact{
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: large;
+}
+h2{
+    color: black;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.def{
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: large;
+    font-weight: lighter;
+}
