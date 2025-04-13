@@ -24,3 +24,6 @@ h2{
     font-size: large;
     font-weight: lighter;
 }
+.list{
+    line-height: 26px;
+}
